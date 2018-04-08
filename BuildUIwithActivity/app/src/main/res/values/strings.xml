@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BuildUIwithActivity</string>
+    <string name="firstName">FirstName</string>
+    <string name="lastName">LastName</string>
+    <string name="phone">Phone</string>
+    <string name="call">Call</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+</resources>
